@@ -10,4 +10,5 @@ print y
 y=np.sin(x)
 
 plt.plot(x,y,'-o')
+plt.title('grafico')
 plt.show()
