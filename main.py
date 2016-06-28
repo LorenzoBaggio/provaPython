@@ -7,7 +7,7 @@ x=np.linspace(0,2*np.pi,20)
 print x
 y=np.linspace(0,1,30)
 print y
-y=np.sin(x)
+y=np.cos(x)
 
 plt.plot(x,y,'-o')
 plt.title('grafico')
